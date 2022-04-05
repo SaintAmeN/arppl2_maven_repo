@@ -9,6 +9,9 @@ public class Main {
         // użyj systemowego wyjścia, wypisz linię:
         System.out.println("Hello World!");
 
+//        Dopisane specjalnie zeby miec zmiane
+//        Zmiany ktore chcialbym zmergowac.
 //        costam zmiana
+//        bla bla bla mial byc jeden brancz mowiles
     }
 }
